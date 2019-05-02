@@ -1,6 +1,6 @@
-# Looking back at Labels: A Class based Domain Adaptation Technique(IDDA)
+# Looking back at Labels: A Class based Domain Adaptation Technique(IDDA)[IJCNN 2019 Oral](ijcnn.org)
 
-Torch code for Domain Adaptation model(IDDA) . For more information, please refer the  [paper](https://arxiv.org/abs/1904.01341) [IJCNN 2019 Oral](ijcnn.org)
+Torch code for Domain Adaptation model(IDDA) . For more information, please refer the  [paper](https://arxiv.org/abs/1904.01341) 
 
 
 #####  [[Project  Page Link ]](https://vinodkkurmi.github.io/DiscriminatorDomainAdaptation/)     [[Paper Link ]](https://arxiv.org/pdf/1904.01341.pdf)
