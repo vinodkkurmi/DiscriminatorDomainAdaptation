@@ -3,7 +3,7 @@
 Torch code for Domain Adaptation model(IDDA) . For more information, please refer the [![Paper](http://img.shields.io/badge/paper-arxiv.1904.01341-B31B1B.svg)](https://arxiv.org/abs/1904.01341) 
 
 
-Accepted at [[IJCNN 2019 Oral](https://www.ijcnn.org/)]
+Accepted at [IJCNN 2019(https://www.ijcnn.org/)]  Oral.
 
 #####  [[Project  Page Link ]](https://vinodkkurmi.github.io/DiscriminatorDomainAdaptation/)     [[Paper Link ]](https://arxiv.org/pdf/1904.01341.pdf)
 
